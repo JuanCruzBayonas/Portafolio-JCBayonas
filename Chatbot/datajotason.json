@@ -1,0 +1,1158 @@
+{
+  "intents": [
+    {
+      "tag": "charla",
+      "patterns": [
+        "Como estan equipadas las aulas?",
+        "Como llego al instituto?        ",
+        "Como pueden ayudarme a que estudie sin tener trabajo?",
+        "Como se asocia a una Organización",
+        "Como se rinde en epoca de pandemia",
+        "Cómo te sentís",
+        "Como estas",
+        "Cual es el mejor turno para cursar?",
+        "Cual es la mejor carrera?",
+        "Cuantas aulas tienen?",
+        "cuanto gana la universidad por semestre?",
+        "cuanto sale fabricarte?",
+        "cuanto te pagan",
+        "Cuanto tiempo por dia hay que estudiar para aprobar?",
+        "Cuantos sectores tiene el instituto?",
+        "de que equipo sos hincha?",
+        "Donde queda el instituto?",
+        "el IES es una facultad o colegio?",
+        "el ies pertenece a la universidad siglo xxi?",
+        "en las aulas hay computadoras para todos",
+        "En que horarios estan los directores de carrera?",
+        "Eres un humano?",
+        "Sos real",
+        "tenes pareja",
+        "estas casado",
+        "Hay que usar uniforme?",
+        "los libros se entregan en papel",
+        "Me gustan las carreras que se dan el IES",
+        "me pagas la carrera?",
+        "mi nombre es",
+        "me pasa el mail de la facultad?",
+        "¿Sos hombre o mujer?",
+        "como afecta el coronavirus",
+        "a cuanto esta el dolar?",
+        "como estan cursando en cuarentena",
+        "los libros se entregan en papel",
+        "Me gustan las carreras que se dan el IES",
+        "me pasa el mail de la facultad?",
+        "Puedo dar clases?",
+        "Puedo trabajar afuera?",
+        "Podemos conversar?",
+        "que carreras tienen mas salida laboral?",
+        "Qué tipo de música te gusta",
+        "que numero salen en el quini hoy?",
+        "Repiten profesores?",
+        "Sos un robot ",
+        "Te gusta lo que hacés",
+        "Se puede trabajar en el estado?",
+        "vos estudiarias?"
+      ],
+      "responses": [
+        "Disculpa no entendi tu pregunta, podes repetirla?",
+        "No entendimos tu consulta, escribila nuevamente",
+        "No se puede responder, consulte de otra manera"
+      ]
+    },
+    {
+      "tag": "despedida",
+      "patterns": [
+        "chau",
+        "gracias",
+        "nos vemos",
+        "te agradezco",
+        "muchas gracias",
+        "nos vimos",
+        "hasta luego",
+        "muy amable gracias",
+        "despues me llego al instituto",
+        "despues voy a la facultad"
+      ],
+      "responses": [
+        "Gracias por elegirnos! Te esperamos en IES 21",
+        "Espero haberte ayudado! Estamos a tu disposicion",
+        "Nos vemos! gracias por tu consulta"
+      ]
+    },
+    {
+      "tag": "saludo",
+      "patterns": [
+        "hola",
+        "como estas",
+        "holanda",
+        "holis",
+        "holu",
+        "que tal",
+        "todo bien",
+        "Buenos dias",
+        "Buenas tardes",
+        "buenas noches"
+      ],
+      "responses": [
+        "Bienvenido! Soy JC, tu asistente virtual de IES21, como puedo ayudarte?",
+        "Holaaa! Soy JC, tu asistente virtual de IES 21! en que podemos ayudarte?",
+        "Buenas! Soy JC, tu asistente virtual IES21 !, cual es tu consulta?"
+      ]
+    },
+    {
+      "tag": "consultas",
+      "patterns": [
+        "como aviso la falta",
+        "como me anoto",
+        "como me inscribo",
+        "que tramites tengo que hacer",
+        "como cambio de carrera",
+        "como me anoto al cies",
+        "se hace curso de ingreso",
+        "preinscripcion",
+        "fecha de cursillo",
+        "fecha de ingreso",
+        "equivalencias",
+        "puedo cursar en julio",
+        "puedo cursar en casa",
+        "requisitos anotarme",
+        "requisitos cursar",
+        "que tengo que hacer para",
+        "que tengo que presentar",
+        "que hago si perdi papeles",
+        "que hago si no tengo papeles",
+        "donde veo las equivalencias",
+        "cual es el material de estudio",
+        "como se cursa",
+        "como son las modalidades",
+        "cuales son los horarios",
+        "cuales son los requisitos de beca",
+        "cuando son las charlas",
+        "cuando abre el instituto",
+        "cuales son los telefonos de bedelia",
+        "cuando son las mesas de examen",
+        "cuanto dura la regularidad",
+        "cuantos dias se cursan",
+        "cuando es la orientacion",
+        "donde tramito la beca",
+        "cuando son las charlas informativas",
+        "reciben equivalencias",
+        "donde tienen oficinas",
+        "dan ayuda para problemas econocimos",
+        "descuentos para cursar carrera",
+        "la cuota como es",
+        "como se paga la cuota",
+        "donde se paga la cuota",
+        "hay viajes academicos",
+        "tienen titulo intermedio",
+        "puedo comenzar a cursar ahora",
+        "cuando puedo empezar a cursar",
+        "que es el CIES",
+        "Como se hace el ingreso",
+        "beneficios de estudiar en IES",
+        "que es el Doa",
+        "que es IES",
+        "se puede cursar semipresencial",
+        "tienen biblioteca",
+        "tienen busqueda laboral",
+        "tienen sala de informatica",
+        "tienen convenios",
+        "cual es el precio de la carrera",
+        "cual es el costo por mes",
+        "cual es el precio por semestre",
+        "cuales son los aranceles",
+        "cuanto cuesta estudiar",
+        "cuanto vale cursar",
+        "cuanto sale el semestre",
+        "precio promedio de carrera",
+        "que precio tiene la matricula",
+        "cuanto se paga de inscripcion",
+        "descuento economico",
+        "como pago menos",
+        "puedo elegir materias",
+        "puedo elegir que cursar",
+        "puedo elegir horario",
+        "puedo elegir modalidad",
+        "quiero cursar",
+        "quiero estudiar",
+        "ya elegi carrera",
+        "como me anoto",
+        "como me inscribo",
+        "donde llevo papeles",
+        "cuando se cursa el CIES",
+        "como se hace el cursillo de ingreso",
+        "cuales son los horarios",
+        "en que horarios se cursa",
+        "quiero cambiarme a IES",
+        "Quiero saber mis correlativas"
+      ],
+      "responses": [
+        "Para este tipo de consultas te recomendamos consultar mediante telefono con los representantes del IES",
+        "No puedo responder esta pregunta, pero se que desde el ies si! comunicate por telefono con ellos"
+      ]
+    },
+    {
+      "tag": "pagos",
+      "patterns": [
+        "como se paga",
+        "donde pago",
+        "es obligatorio pagar con tarjeta",
+        "se puede pagar con tarjeta",
+        "puedo pagar con debito",
+        "cheques",
+        "tarjeta de credito",
+        "se paga por adelantado",
+        "como se puede pagar",
+        "puedo pagar con dolares",
+        "que modalidades de pago existen",
+        "como pago",
+        "Que interes tiene la tarjeta",
+        "puedo pagar con cheques",
+        "puedo usar visa",
+        "puedo usar mastercard",
+        "puedo pagar con banco de cordoba",
+        "puedo pagar con naranja",
+        "se puede pagar por mes"
+      ],
+      "responses": [
+        "Los medios de pagos son tarjetas de credito o debito, deposito, cheques o pagare, para mas info consultar la web del instituto  ",
+        "Los medios de pagos son tarjetas de credito o debito, deposito, cheques o pagare, para mas info llamar al instituto"
+      ]
+    },
+    {
+      "tag": "IA_que_es",
+      "patterns": [
+        "que es la carrera de inteligencia artificial",
+        "que es la carrera de ciencia de datos",
+        "que es la carrera de IA",
+        "que se estudia en inteligencia artificial",
+        "que se estudia en ciencia de datos",
+        "que se estudia en IA",
+        "que se estudia en data science",
+        "como se estudia en inteligencia artificial",
+        "como se estudia en ciencia de datos",
+        "Me das info de IA",
+        "Me das info de ciencia de datos",
+        "Me das info de data science",
+        "Me das info de inteligencia artificial",
+        "que es la carrera de data science"
+      ],
+      "responses": [
+        "A partir de la captación y procesamiento de datos serán capaces de entrenar sistemas de Inteligencia Artificial que brinden soluciones a un amplio abanico de actividades industriales, comerciales y profesionales. Dado que la Inteligencia Artificial es un área en pleno desarrollo, también podrán realizar investigaciones sobre nuevas aplicaciones a innovar."
+      ]
+    },
+    {
+      "tag": "IA_trabajo",
+      "patterns": [
+        "que hace alguien que estudia IA",
+        "que hace alguien que estudia ciencia de datos",
+        "que hace alguien que estudia inteligencia artificial",
+        "que hace alguien que estudia data science",
+        "cual es el trabajo de alguien que estudia IA",
+        "cual es el trabajo de alguien que estudia ciencia de datos",
+        "cual es el trabajo de alguien que estudia inteligencia artificial",
+        "cual es el trabajo de alguien que estudia data science"
+      ],
+      "responses": [
+        "Desarrollar sistemas de Inteligencia Artificial basados fundamentalmente en las metodologías de Aprendizaje Automático (Machine Learning), Crear sistemas de Inteligencia Artificial capaces de aprender de los datos obtenidos para las metodologías de Aprendizaje Automático, Desarrollar sistemas capaces de pronosticar valores numéricos o de efectuar clasificaciones, Ajustar sistemas de Aprendizaje Automático."
+      ]
+    },
+    {
+      "tag": "IA_materias",
+      "patterns": [
+        "que materias tiene IA ",
+        "que materias tiene inteligencia artificial",
+        "que materias tiene ciencia de datos",
+        "que materias tiene data science",
+        "que se cursa en IA",
+        "que se cursa en inteligencia artificial",
+        "que se cursa en ciencia de datos",
+        "que se cursa en data science",
+        "que materias se ven en IA",
+        "que materias se ven en inteligencia artificial",
+        "que materias se ven en ciencia de datos",
+        "que materias se ven en data science"
+      ],
+      "responses": [
+        "La Tec. Sup. en IA y ciencia de datos tiene materias como, Introducción a la Inteligencia Artificial, Computación Científica, Analisis Matematico, Minería de Datos, Procesamiento de lenguaje natural, entre otras"
+      ]
+    },
+    {
+      "tag": "IA_modalidad",
+      "patterns": [
+        "que modalidad tiene IA",
+        "que modalidad tiene inteligencia artificial",
+        "que modalidad tiene ciencia de datos",
+        "que modalidad tiene data science",
+        "como se cursa IA",
+        "como se cursa ciencia de datos",
+        "como se cursa inteligencia artificial",
+        "como se cursa data science"
+      ],
+      "responses": [
+        "La carrera de IA y ciencia de datos cuenta con una unica modalidad, Presencial"
+      ]
+    },
+    {
+      "tag": "MTM_que_es",
+      "patterns": [
+        "Que se estudia en Multimedias",
+        "que es la carrera de Multimedias",
+        "Me das info de la carrera de multimedias",
+        "quiero informacion de multimedias"
+      ],
+      "responses": [
+        "Como Diseñador de Multimedios, serás un profesional capaz de abordar la complejidad de la producción multimedia, en sus aspectos proyectuales de diseño y en el abordaje de su resolución técnica con hardware y software contemplando aspectos estéticos, humanos, tecnológicos y estratégicos. Podrás desempeñarte en departamentos de comunicación y diseño, productoras de contenidos audiovisuales para televisión y cine, empresas de efectos especiales y sellos discográficos, como así también en forma independiente tanto en el mercado local como internacional."
+      ]
+    },
+    {
+      "tag": "MTM_materia",
+      "patterns": [
+        "Que materias tiene multimedia",
+        "que se cursa en multimedia",
+        "que se ve en multimedia"
+      ],
+      "responses": [
+        "La carrera de Diseño en Multimedia tiene materias como, Digitalización, Elementos de Diseño, Programación Web, Redes, entre otras"
+      ]
+    },
+    {
+      "tag": "MTM_modalidad",
+      "patterns": [
+        "que modalidad tiene Multimedia",
+        "como se cursa Multimedia"
+      ],
+      "responses": [
+        "La carrera de Diseño en multimedia se cursa solo en la modalidad Distancia"
+      ]
+    },
+    {
+      "tag": "MTM_trabajo",
+      "patterns": [
+        "que hace alguien de Multimedia",
+        "a que me dedico como diseñador de Multimedia",
+        "cual es el trabajo de alguien que estudia Multimedia"
+      ],
+      "responses": [
+        "El trabajo del egresado de Diseño Multimedia sera Diagnosticar problemas comunicacionales de organizaciones y empresas, Definir proyectos Multimediales y diseñar piezas digitales e interactivas que resuelvan los problemas comunicacionales detectados en empresas y organizaciones ,Seleccionar y aplicar hardware y software para el diseño de piezas multimediales, entre otras cosas"
+      ]
+    },
+    {
+      "tag": "DG_materia",
+      "patterns": [
+        "Que materias tiene diseño grafico",
+        "que se cursa en diseño grafico",
+        "que se ve en diseño grafico"
+      ],
+      "responses": [
+        "La carrera de Diseño Grafico tiene materias como Estetica, Diseñomatica, Fotografia, Creacion Publicitaria, entre otras"
+      ]
+    },
+    {
+      "tag": "DG_que_es",
+      "patterns": [
+        "que se estudia en Diseño Grafico",
+        "que es la carrera de Diseño Grafico",
+        "me das info de Diseño Grafico",
+        "quiero informacion de Diseño Grafico"
+      ],
+      "responses": [
+        "El diseño gráfico es una disciplina indispensable como recurso ordenador de la comunicación humana. Una herramienta que, en manos de un profesional idóneo, le permite a las organizaciones contar con una eficiente estrategia de comunicación. Estamos constantemente rodeados por mensajes visuales, materializados en piezas gráficas cuyo objetivo principal es resolver las necesidades comunicacionales entre un sujeto social y su público. Para facilitar la relación entre ellos, se desarrollan acciones integrales que incluyen proyectos en las áreas de identidad institucional, gráfica de entorno, de envases, editorial y publicitaria, entre otros. Con el avance de las nuevas tecnologías nuestro entorno exige cada vez más, nuevas formas de comunicación que se adapten a diferentes discursos, soportes y medios. Como diseñador, encontrarás constantes desafíos vinculados a la proyección y producción de isologotipos, papelería institucional, etiquetas, afiches, catálogos, ente otros. A su vez, participarás de la producción de publicaciones y piezas para entornos digitales. En definitiva, el campo de acción es lo suficientemente amplio para especializarte y dedicarte al área de tu mayor interés, entre otras cosas"
+      ]
+    },
+    {
+      "tag": "DG_modalidad",
+      "patterns": [
+        "que modalidad tiene",
+        "como se cursa"
+      ],
+      "responses": [
+        "La carrera de Diseño Grafico se cursa de 2 formas, o en modalidad distancia o de forma Presencial"
+      ]
+    },
+    {
+      "tag": "DG_trabajo",
+      "patterns": [
+        "que hace alguien de Diseño Grafico",
+        "a que me dedico como Diseñador Grafico",
+        "cual es el trabajo de alguien que estudia Diseño Grafico"
+      ],
+      "responses": [
+        "El trabajo del egresado en Diseño Grafico será Analizar y resolver situaciones en el campo de la comunicación visual. Esto implica el desarrollo de una metodología de trabajo proyectual que le permita reconocer el motivo de intervención, delimitar los objetivos y planificar una estrategia de comunicación gráfica acorde a las necesidades y requerimientos de la organización en cuestión, Programar, proyectar y producir acciones de comunicación visual coordinando los recursos formales, técnicos y fácticos propios del Diseño Gráfico a los fines de lograr procesos de comunicación eficientes , Ejecutar herramientas tecnológicas que permitan desarrollar y controlar los procesos de producción gráfica necesarios para lograr una implementación y puesta en uso adecuada para los soportes gráficos programados, entre otras cosas "
+      ]
+    },
+    {
+      "tag": "Pub_que_es",
+      "patterns": [
+        "que se estudia en Publicidad",
+        "que es la carrera de Publicidad",
+        "me das info de Publicidad",
+        "quiero informacion de Publicidad"
+      ],
+      "responses": [
+        "En la actualidad y desde siempre, la publicidad ha comunicado marcas, estilos de vida y ha caracterizado un tiempo particular. Transmitir mensajes creativos por los medios más convenientes con inversiones productivas es el desafío de las estrategias de comunicación de las organizaciones de hoy. Como egresado estárás capacitado para trabajar en agencias como director o asistente de cuentas, creatividad, redacción, producción y medios, conformar estructuras independientes como boutiques creativas, centrales de medios o estudios de diseño."
+      ]
+    },
+    {
+      "tag": "Pub_materia",
+      "patterns": [
+        "Que materias tiene Publicidad",
+        "que se cursa en Publicidad",
+        "que se ve en Publicidad"
+      ],
+      "responses": [
+        "La Carrera de Publicidad tiene materias como, Comunicacion Visual, Gramatica, Direcion, Produccion Grafica, Mercadotecnia entre otras"
+      ]
+    },
+    {
+      "tag": "Pub_modalidad",
+      "patterns": [
+        "que modalidad tiene Publicidad",
+        "como se cursa Publicidad"
+      ],
+      "responses": [
+        "La Carrera de Publicidad se cursa solo a Distancia"
+      ]
+    },
+    {
+      "tag": "Pub_trabajo",
+      "patterns": [
+        "que hace alguien de Publicidad",
+        "a que me dedico como Publicista",
+        "cual es el trabajo de alguien que estudia Publicidad"
+      ],
+      "responses": [
+        "El egresado de Publicidad estara capacitado para Generar, recopilar y sistematizar información específica y necesaria para el desarrollo de campañas publicitarias tanto de organizaciones de bien público como comerciales; cooperando con quienes integrarán su equipo de trabajo y con profesionales que trabajan en la tarea publicitaria, Crear, planificar, producir y ejecutar campañas publicitarias, distinguiendo claramente las técnicas para confeccionar avisos y para seleccionar medios de comunicación; reconociendo los componentes del mensaje publicitario y los procedimientos estratégicos para la planificación de medios, entre otras cosas"
+      ]
+    },
+    {
+      "tag": "RRPP_que_es",
+      "patterns": [
+        "que se estudia en RRPP",
+        "que es la carrera de RRPP",
+        "me das info de RRPP",
+        "quiero informacion de RRPP",
+        "que se estudia en relaciones publicas",
+        "que es la carrera de relaciones publicas",
+        "me das info de relaciones publicas",
+        "quiero informacion de relaciones publicas"
+      ],
+      "responses": [
+        "Las Relaciones Públicas constituyen un conjunto de acciones comunicacionales integradas, estratégicas, planificadas y sostenidas a lo largo del tiempo, orientadas a fortalecer vínculos de calidad entre las organizaciones y sus públicos, con el fin de legitimar el quehacer institucional, potenciar su competitividad y facilitar el logro de las metas propuestas.El dominio de la comunicación desvela a todo tipo de organizaciones, ya que entienden que en el mundo actual esto se traduce en “poder”. Los Relacionistas Públicos se enfocan en posicionar la imagen, a través del análisis de las tendencias del contexto y de la opinión pública, el diagnóstico organizacional y la ejecución de las más diversas herramientas de comunicación. Nuestros egresados aportan soluciones fundamentales para que las organizaciones avancen a paso firme en un mundo cada vez más competitivo."
+      ]
+    },
+    {
+      "tag": "RRPP_materia",
+      "patterns": [
+        "Que materias tiene RRPP",
+        "que se cursa en RRPP",
+        "que se ve en RRPP",
+        "Que materias tiene relaciones publicas",
+        "que se cursa en relaciones publicas",
+        "que se ve en relaciones publicas"
+      ],
+      "responses": [
+        "La carrera de RRPP tiene materias como psicologia social, organizacion empresarial, derecho civil y comercial, mercadotecnia, entre otras"
+      ]
+    },
+    {
+      "tag": "RRPP_modalidad",
+      "patterns": [
+        "que modalidad tiene RRPP",
+        "como se cursa RRPP",
+        "que modalidad tiene relaciones publicas",
+        "como se cursa relaciones publicas"
+
+      ],
+      "responses": [
+        "La carrera RRPP se cursa en una unica modalidad, a distancia"
+      ]
+    },
+    {
+      "tag": "RRPP_trabajo",
+      "patterns": [
+        "que hace alguien de RRPP",
+        "a que me dedico como RRPP",
+        "cual es el trabajo de alguien que estudia RRPP",
+        "que hace alguien de relaciones publicas",
+        "cual es el trabajo de alguien que estudia relaciones publicas"
+      ],
+      "responses": [
+        "el egresado de RRPP podra nalizar las tendencias de la organización y de sus públicos, en el ámbito de su coyuntura, en función de los intereses legítimos de ambos, Relevar, diagnosticar y analizar los procesos comunicacionales internos y externos de organizaciones de todo tipo, tamaño y dimensión, iagnosticar las situaciones que configuran las tendencias de ambas partes y pronosticar las posibles consecuencias en la confluencia de los intereses particulares y el interés público, entre otras cosas "
+      ]
+    },
+    {
+      "tag": "3D_que_es",
+      "patterns": [
+        "que se estudia en impresion 3D",
+        "que es la carrera de impresion 3D",
+        "me das info de impresion 3D",
+        "quiero informacion de impresion 3D"
+      ],
+      "responses": [
+        "La revolución tecnológica presenta escenarios continuamente cambiantes en nuestra vida y en la de las organizaciones. En este contexto, la Impresión 3D entra en nuestros hogares a través de juguetes, indumentaria, herramientas, muebles, prótesis, y especialmente en la medicina, la odontología y la industria, alcanzando todos los ámbitos. De este modo, la impresión 3D presenta un nuevo horizonte que se adapta a las necesidades de los mercados, donde el profesional en Diseño e Impresión 3D está capacitado para planificar y programar actividades relacionadas con el diseño y la fabricación de productos, integrar equipos técnicos asociados a la producción; ofrecer diseños, prototipos o aplicaciones finales que se puedan materializar en poco tiempo y a bajo costo."
+      ]
+    },
+    {
+      "tag": "3D_materia",
+      "patterns": [
+        "Que materias tiene impresion 3d",
+        "que se cursa en impresion 3d",
+        "que se ve en impresion 3d"
+      ],
+      "responses": [
+        "La carrera de 3D tiene materias como dibujo proyectual, conceptos parametricos, control numerico computarizado, legislacion y patentes, entre otras"
+      ]
+    },
+    {
+      "tag": "3D_modalidad",
+      "patterns": [
+        "que modalidad tiene Impresion 3D",
+        "como se cursa Impresion 3D"
+      ],
+      "responses": [
+        "La carrera de Impresion 3D se cursa solo de manera Presencial"
+      ]
+    },
+    {
+      "tag": "3D_trabajo",
+      "patterns": [
+        "que hace alguien de Impresion 3D",
+        "a que me dedico como Impresion 3D",
+        "cual es el trabajo de alguien que estudia Impresion 3D"
+      ],
+      "responses": [
+        "El egresado en impresiones 3d sera capaz de Realizar el diseño, planificación y materialización, mediante impresión 3D, de productos, piezas o prototipos, Aplicar sus conocimientos en nuevas tecnologías para la creación, armado o modificación de impresoras 3D, Actuar como consultor, ejecutor o asesor de organismos, entidades, instituciones y empresas en lo referente a actividades que involucren la impresión 3D, entre otras tareas"
+      ]
+    },
+    {
+      "tag": "AS_que_es",
+      "patterns": [
+        "que se estudia en Analista de Sistema",
+        "que es la carrera de Analista de Sistema",
+        "me das info de Analista de Sistema",
+        "quiero informacion de Analista de Sistema"
+      ],
+      "responses": [
+        "La propuesta educativa de este campo profesional fue el primer ámbito de formación técnica al momento de la fundación de IES. Como egresado de Sistemas de Computación serás un profesional calificado para el análisis y diseño de sistemas informáticos, usando Metodologías ágiles y lenguaje de unificado de modelado (UML), incluyendo la programación y desarrollo de software en diversos lenguajes y ambientes, tanto para el desarrollo de backend como de frontend, diseño e implementación de sistemas de bases de datos, analitica de datos, diseño y administración de redes que puede desempeñarse como programador, analista funcional, diseñador de base de datos, analista de testing, y otros de su nivel,        Además, puede dedicarse a la organización y dirección de empresas dedicadas a la producción de software, como así también la gestión de proyectos complejos pudiendo desempeñarse en el mercado regional e internacional como líder de proyecto, coordinador de equipos técnicos, gerente de Sistemas y director de su propia empresa."
+      ]
+    },
+    {
+      "tag": "AS_materia",
+      "patterns": [
+        "Que materias tiene Analisis de Sistema",
+        "que se cursa en Analisis de Sistema",
+        "que se ve en Analisis de Sistema"
+      ],
+      "responses": [
+        "La carrera de analista en sistemas tiene materias como Programacion Logica, Redes y comunicaciones, Estructura de Datos, Base de Datos, Estadistica, entre otras"
+      ]
+    },
+    {
+      "tag": "AS_modalidad",
+      "patterns": [
+        "que modalidad tiene Analisis de Sistema",
+        "como se cursa Analisis de Sistema"
+      ],
+      "responses": [
+        "La carrera de analista en sistemas cuenta con dos modalidades, tanto a distancia como presencial"
+      ]
+    },
+    {
+      "tag": "AS_trabajo",
+      "patterns": [
+        "que hace alguien de Analisis de Sistema",
+        "a que me dedico como analista de sistema",
+        "cual es el trabajo de alguien que estudia Analisis de Sistema"
+      ],
+      "responses": [
+        "el egresado de Analisis de sistema podra Diseñar, analizar, planificar, controlar sistemas de información, aplicando las plataformas de Hardware y Software más adecuadas al mercado existente, Organizar, planificar, controlar y dirigir el área de sistemas de las organizaciones en lo que respecta a los sistemas de información, Distinguir los distintos lenguajes de programación de computadoras de uso más frecuente del manejo de técnicas de programación y sus recursos auxiliares, entre otras cosas"
+      ]
+    },
+    {
+      "tag": "Rob_que_es",
+      "patterns": [
+        "que se estudia en Robotica",
+        "que es la carrera de Robotica",
+        "me das info de Robotica",
+        "quiero informacion de Robotica"
+      ],
+      "responses": [
+        "La Robótica es la tecnología que se ocupa del diseño, manufactura y aplicaciones de los robots, combinando diferentes disciplinas como la mecánica, la electrónica, la informática, la inteligencia artificial y la ingeniería de control. Está destinada a crear aparatos que simplifiquen la vida y realicen tareas de las personas. Probablemente en unos años haya más robots haciendo cosas por nosotros, y esto significa una nueva demanda laboral para los profesionales de esta rama de la tecnología. Las industrias ya han incorporado en sus operaciones sistemas digitales que potencian las capacidades de sus productos, por ejemplo, los sistemas de control en automóviles, electrodomésticos inteligentes y equipos de diagnóstico médico, entre otros sectores. Si tenés pasión por la tecnología futurista, es probable que estés listo para crear un robot en un laboratorio! Estudiá en IES la Carrera de Robótica."
+      ]
+    },
+    {
+      "tag": "Rob_materia",
+      "patterns": [
+        "Que materias tiene Robotica",
+        "que se cursa en Robotica",
+        "que se ve en Robotica"
+      ],
+      "responses": [
+        "La carrera de Robotica tiene materias como Electrotecnia, Microcontroladores, Sistemas de COntrol, Electronica, Seguridad Industrial, entre otras"
+      ]
+    },
+    {
+      "tag": "Rob_modalidad",
+      "patterns": [
+        "que modalidad tiene robotica",
+        "como se cursa robotica"
+      ],
+      "responses": [
+        "La carrera de Robotica solo cuenta con la modalidad Presencial"
+      ]
+    },
+    {
+      "tag": "Rob_trabajo",
+      "patterns": [
+        "que hace alguien de Robotica",
+        "a que me dedico como egresado de Robotica",
+        "cual es el trabajo de alguien que estudia Robotica"
+      ],
+      "responses": [
+        "El egresado de Robotica sera capaz de Capacitar y asesorar a usuarios en el diseño, mantenimiento, operación y puesta en marcha de máquinas automáticas, controles de procesos automatizados y mecanismos robóticos, Diseñar automatizaciones a partir de dispositivos de base hidráulica neumática y eléctrica / electrónica, Plantear y resolver problemas de ajuste y puesta a punto de sistemas de control industrial, entre otras cosas"
+      ]
+    },
+    {
+      "tag": "SVID_que_es",
+      "patterns": [
+        "que se estudia en Simulacion y VideoJuegos",
+        "que es la carrera de Simulacion y VideoJuegos",
+        "me das info de Simulacion y VideoJuegos",
+        "quiero informacion de Simulacion y VideoJuegos"
+      ],
+      "responses": [
+        "Podrás conjugar el mundo de la informática, el diseño, la estética audiovisual y la programación, preparándote para una industria en franco crecimiento que sustenta su actividad tanto en el mercado interno como en el internacional. Una industria que año a año supera su facturación, posicionándose como líder en las industrias de entretenimiento, aventajando a la industria del cine y de la música; además, en su perfil de simulaciones virtuales, cada vez son más las empresas que se vuelcan a esta forma no tradicional de publicitar (advergame), educar (edugame), hacer marketing, (viralgame) y capacitar (trainingame). La primera oferta académica en su tipo, y la única, del centro del país."
+      ]
+    },
+    {
+      "tag": "SVID_materia",
+      "patterns": [
+        "Que materias tiene Simulacion y VideoJuegos",
+        "que se cursa en Simulacion y VideoJuegos",
+        "que se ve en Simulacion y VideoJuegos"
+      ],
+      "responses": [
+        "La carrera de videojuegos tiene materias como Interfaz Grafica, Guionado, Animacion, Negocios y simulaciones virtuales, entre otras"
+      ]
+    },
+    {
+      "tag": "SVID_modalidad",
+      "patterns": [
+        "que modalidad tiene Simulacion y VideoJuegos",
+        "como se cursa Simulacion y VideoJuegos"
+
+      ],
+      "responses": [
+        "La carrera de Simulacion y VideoJuegos tiene dos modalidades, tanto presencial como a distancia"
+      ]
+    },
+    {
+      "tag": "SVID_trabajo",
+      "patterns": [
+        "que hace alguien de Simulacion y VideoJuegos",
+        "a que me dedico como tecnico en Simulacion y VideoJuegos",
+        "cual es el trabajo de alguien que estudia Simulacion y VideoJuegos"
+      ],
+      "responses": [
+        "Definir y concretar proyectos de desarrollo de simulaciones virtuales y videojuegos de forma independiente o dentro de estudios de videojuegos, Desempeñarse en departamentos cautivos de comunicación y diseño dentro de empresas y organizaciones, creando simulaciones digitales interactivas que funcionen de modo autónomo o en sistema con otras piezas de comunicación, Desarrollar junto a departamentos de capacitación de empresas y organizaciones, simulaciones virtuales de carácter educativo en sus distintas formas y soportes dependiendo el sector al que pertenezcan (industria, medicina, arquitectura, militar, de negocio, etc.…), Programar en distintos idiomas computacionales para desarrollos de distintos índoles y distintas plataformas de soporte, entre otras cosas "
+      ]
+    },
+    {
+      "tag": "agro_que_es",
+      "patterns": [
+        "que se estudia en Agronegocios",
+        "que es la carrera de Agronegocios",
+        "me das info de Agronegocios",
+        "quiero informacion de Agronegocios"
+      ],
+      "responses": [
+        "La economía argentina tiene su principal sustento en la producción de alimentos y es por ello que el sector agropecuario sostiene una participación importante en la conformación del PBI. La realidad del sector agropecuario, agroalimentario y agroindustrial presenta grandes oportunidades para que puedas insertarte profesionalmente como administrador de negocios capaz de aportar herramientas conceptuales que permitan que los productores asuman su rol empresario y generen emprendimientos ordenados, eficientes y sustentables."]
+    },
+    {
+      "tag": "agro_materia",
+      "patterns": [
+        "Que materias tiene Agronegocios",
+        "que se cursa en Agronegocios",
+        "que se ve en Agronegocios"
+      ],
+      "responses": [
+        "La carrera de Agronegocios tiene materias como Sistemas Naturales, Produccion Animal, derecho Ambiental, mercadotecnia entre otras"
+      ]
+    },
+    {
+      "tag": "agro_modalidad",
+      "patterns": [
+        "que modalidad tiene Agronegocios",
+        "como se cursa Agronegocios"
+      ],
+      "responses": [
+        "La carrera de Agronegocios se cursa solo de manera Presencial"
+      ]
+    },
+    {
+      "tag": "agro_trabajo",
+      "patterns": [
+        "que hace alguien de Agronegocios",
+        "a que me dedico como Tec Sup en Agronegocios",
+        "cual es el trabajo de alguien que estudia Agronegocios"
+      ],
+      "responses": [
+        "el egresado de Agronegocios podra Actuar como responsable de la administración de negocios agropecuarios, agroindustriales y de servicios, Eficientizar la distribución de los recursos dentro de la organización buscando dar la mayor rentabilidad al empresario sin descuidar el aspecto de sustentabilidad, Gestionar, coordinar y ejecutar proyectos de producción agropecuaria y agroindustrial en organizaciones, entre otras cosas "
+      ]
+    },
+    {
+      "tag": "CI_que_es",
+      "patterns": [
+        "que se estudia en Comercio internacional",
+        "que es la carrera de Comercio internacional",
+        "me das info de Comercio internacional",
+        "quiero informacion de Comercio internacional"
+      ],
+      "responses": [
+        "El desarrollo de nuestro país depende fundamentalmente, en lograr que las empresas obtengan oportunidades comerciales y apertura de los mercados estimulando las exportaciones. También es importante la búsqueda de aquellos insumos o equipos tecnológicos en las diferentes regiones del mundo para optimizar sus procesos productivos y mejorar su competitividad empresarial. En ese contexto, el profesional en Comercio Internacional actúa identificando oportunidades de negocios en mercados externos, desarrollando estrategias comerciales para la internacionalización de la empresa y en la gestión de operatoria aduanera y sus aspectos logísticos. El mundo de los negocios contemporáneos necesita de técnicos con una formación empresarial global."
+      ]
+    },
+    {
+      "tag": "CI_materia",
+      "patterns": [
+        "Que materias tiene Comercio internacional",
+        "que se cursa en Comercio internacional",
+        "que se ve en Comercio internacional"
+      ],
+      "responses": [
+        "La carrera de Comercio Internacional tiene materias como Recursos Informaticos, Negocios Internacionales, Geografia Economica, analisis de costos, entre otras"
+      ]
+    },
+    {
+      "tag": "CI_modalidad",
+      "patterns": [
+        "que modalidad tiene Comercio internacional",
+        "como se cursa Comercio internacional"
+      ],
+      "responses": [
+        "La carrera de Comercio Internacional cuenta con una sola modalidad, Presencial"
+      ]
+    },
+    {
+      "tag": "CI_trabajo",
+      "patterns": [
+        "que hace alguien de Comercio Internacional",
+        "a que me dedico como Tec Sup en Comercio Internacional",
+        "cual es el trabajo de alguien que estudia Comercio Internacional"
+      ],
+      "responses": [
+        "El egresado de Comercio Internacional sera capaz de ealizar gestiones y trámites que requiere cada operación de comercio exterior ante los organismos relacionados como entidades financieras, Administración Nacional de Aduanas, empresas de transporte, logística y seguros, Crear inteligencia de mercado creando valor de marca, permitiendo optimizar la rentabilidad de la empresa a través de una mayor presencia en los mercados globales, Comprender y aprovechar las estructuras regionales y sectoriales de diversos países en el mundo para integrar y generar nuevos negocios, entre otras cosas"
+      ]
+    },
+    {
+      "tag": "Adm_que_es",
+      "patterns": [
+        "que se estudia en Administración de Empresas",
+        "que es la carrera de Administración de Empresas",
+        "me das info de Administración de Empresas",
+        "quiero informacion de Administración de Empresas"
+      ],
+      "responses": [
+        "Hoy existe en nuestro medio un gran vacío de conducción y la carrera te capacita para ocuparlos. Como egresado de administración de empresas podrás desarrollar tareas en la empresa como asistencia a la gerencia, ocupando mandos medios en la misma y actuando donde sea necesario contar con un profesional con habilidades y conocimientos de administración. Además, podrás tener la capacidad de desarrollar habilidades para gerenciar una empresa productora de bienes o servicios, como así también organizaciones económicas sin fines de lucro, actuando conjuntamente con diferentes profesionales de las distintas áreas como responsable de la dirección."
+      ]
+    },
+    {
+      "tag": "Adm_materia",
+      "patterns": [
+        "Que materias tiene Administración de Empresas",
+        "que se cursa en Administración de Empresas",
+        "que se ve en Administración de Empresas"
+      ],
+      "responses": [
+        "La carrera de AdE cuenta con materias como Mercadotecnica, analisis de costo, Auditoria Operativa, Derecho civil y comercial, Entre Otras"
+      ]
+    },
+    {
+      "tag": "Adm_modalidad",
+      "patterns": [
+        "que modalidad tiene Administración de Empresas",
+        "como se cursa Administración de Empresa"
+      ],
+      "responses": [
+        "La carrera  de AdE cuenta con dos modalidades, presencial o distancia"
+      ]
+    },
+    {
+      "tag": "Adm_trabajo",
+      "patterns": [
+        "que hace alguien de Administracion de Empresas",
+        "a que me dedico como Tec Sup en Administracion de Empresas",
+        "cual es el trabajo de alguien que estudia Administracion de Empresas"
+      ],
+      "responses": [
+        "El egresado en AdE sera capaz de Conducir grupos humanos, tanto en tareas de planificación como de ejecución, de modo coordinado, cooperativo y ejecutivo, Diseñar objetivos estratégicos a lograr por la empresa, ponerlos en ejecución y evaluarlos, Seleccionar diversas estrategias y metodologías para obtener resultados convenientes para la empresa, en tiempo y forma, entre otras cosas "
+      ]
+    },
+    {
+      "tag": "Mkt_que_es",
+      "patterns": [
+        "que se estudia en marketing",
+        "que es la carrera de marketing",
+        "me das info de marketing",
+        "quiero informacion de marketing"
+      ],
+      "responses": [
+        "La Carrera de Marketing te forma profesionalmente capacitándote para conocer e investigar el mercado y luego actuar en él, brindando un completo bagaje de herramientas conceptuales y técnicas con el fin de detectar oportunidades a través de la investigación. Como profesional en Marketing tendrás capacidad para hacer propuestas sobre la planificación, implementación y control de políticas de productos, precios, distribución y comunicación, aplicables en empresas tanto de producción como de servicios."
+      ]
+    },
+    {
+      "tag": "Mkt_materia",
+      "patterns": [
+        "Que materias tiene marketing",
+        "que se cursa en marketing",
+        "que se ve en marketing"
+      ],
+      "responses": [
+        "La carrera de marketing tiene materias como Publicidad, Sociologia, Marcas y Patentes, Mercados, Mercadotecnia, Comercializacion, entre otras"
+      ]
+    },
+    {
+      "tag": "Mkt_modalidad",
+      "patterns": [
+        "que modalidad tiene marketing",
+        "como se cursa marketing"
+      ],
+      "responses": [
+        "la carrera marketing tiene dos modalidades, tanto presencial como a distancia"
+      ]
+    },
+    {
+      "tag": "Mkt_trabajo",
+      "patterns": [
+        "que hace alguien de marketing",
+        "a que me dedico como marketing",
+        "cual es el trabajo de alguien que estudia marketing"
+      ],
+      "responses": [
+        "El egresado de marketing sera capaz de Seleccionar, diseñar, implementar y controlar estudios de mercados, Evaluar estudios de mercados, analizando sus resultados y efectuando correcciones, Recomendar, implementar y controlar estrategias de comercialización, en función del análisis de mercado, Constituir grupos de trabajo para realizar análisis de mercado, Conducir equipos específicos e interdisciplinarios para efectuar análisis de mercado, entre otras cosas"
+      ]
+    },
+    {
+      "tag": "GCF_que_es",
+      "patterns": [
+        "que se estudia en Gestión Contable y Financiera",
+        "que es la carrera de Gestión Contable y Financiera",
+        "me das info de Gestión Contable y Financiera",
+        "quiero informacion de Gestión Contable y Financiera"
+      ],
+      "responses": [
+        "Las organizaciones, tanto privadas como públicas, necesitan profesionales con herramientas prácticas y conocimientos teóricos para desarrollarse eficazmente en el área contable, impositiva, financiera y laboral, aportando información eficiente y eficaz para la toma de decisiones en la empresa."
+      ]
+    },
+    {
+      "tag": "GCF_materia",
+      "patterns": [
+        "Que materias tiene Gestión Contable y Financiera",
+        "que se cursa en Gestión Contable y Financiera",
+        "que se ve en Gestión Contable y Financiera"
+      ],
+      "responses": [
+        "La carrera GCyF tiene materias como Organizacion Empresarial, Ofimatica, Fundamentos de Economia, Auditoria Operativa, entre otras"
+      ]
+    },
+    {
+      "tag": "GCF_modalidad",
+      "patterns": [
+        "que modalidad tiene Gestión Contable y Financiera",
+        "como se cursa Gestión Contable y Financiera"
+      ],
+      "responses": [
+        "La carrera de GCF solo se cursa a Distancia"
+      ]
+    },
+    {
+      "tag": "GCF_trabajo",
+      "patterns": [
+        "que hace alguien de Gestión Contable y Financiera",
+        "a que me dedico como Tec Sup en Gestión Contable y Financiera",
+        "cual es el trabajo de alguien que estudia Gestión Contable y Financiera"
+      ],
+      "responses": [
+        "Analizar y evaluar los componentes y significados de estados contables y financieros, teniendo en cuenta los requisitos legales y formales de los sistemas de información contables, a los fines de proveer información útil para la toma de decisiones, Relevar, elaborar, registrar y controlar sistemas de información contables y financieros de las organizaciones, entre otras"
+      ]
+    },
+    {
+      "tag": "HyS_que_es",
+      "patterns": [
+        "que se estudia en Higiene y Seguridad",
+        "que es la carrera de Higiene y Seguridad",
+        "me das info de Higiene y Seguridad",
+        "quiero informacion de Higiene y Seguridad"
+      ],
+      "responses": [
+        "Podrás trabajar efectuando relevamientos de los riesgos existentes y asesorando al empleador sobre las medidas preventivas a implementar con objeto de eliminar los riesgos en aquellas empresas que desarrollen actividades industriales, agrícolas y las relacionadas a la construcción. Análisis efectuados sobre la siniestralidad en las empresas demuestran con claridad que las pérdidas que se generan a partir de un accidente afectan a la empresa y a sus trabajadores en lo económico, en lo social, en lo moral y en lo legal; por ello el invertir en el mejoramiento de las condiciones de higiene y seguridad en los establecimientos significa potenciar el rendimiento de los trabajadores, mejorar su calidad de vida y por ende los resultados significan a la empresa una mejora en su imagen, competitividad y economía. Podrás asesorar, instruir, investigar y analizar en el marco del ámbito organizacional, para lograr un control óptimo y la reducción de los peligros que causen daños y lesiones a las personas y/o a la propiedad"
+      ]
+    },
+    {
+      "tag": "HyS_materia",
+      "patterns": [
+        "Que materias tiene Higiene y Seguridad",
+        "que se cursa en Higiene y Seguridad",
+        "que se ve en Higiene y Seguridad"
+      ],
+      "responses": [
+        "La carrera de HyS tiene materias como Psicologia Laboral, Legislacion Laboral, Seguridad, Medicina del Trabajo, entre otras "
+      ]
+    },
+    {
+      "tag": "HyS_modalidad",
+      "patterns": [
+        "que modalidad tiene Higiene y Seguridad",
+        "como se cursa Higiene y Seguridad"
+      ],
+      "responses": [
+        "La carrera HyS se cursa solo de manera presencial"
+      ]
+    },
+    {
+      "tag": "HyS_trabajo",
+      "patterns": [
+        "que hace alguien de Higiene y Seguridad",
+        "a que me dedico como Tec Sup en Higiene y Seguridad",
+        "cual es el trabajo de alguien que estudia Higiene y Seguridad"
+      ],
+      "responses": [
+        "Efectuar relevamientos periódicos en la totalidad de sectores del establecimiento con objeto de determinar el cumplimiento o los No cumplimientos respecto a lo solicitado en la normativa vigente referido a: Condiciones edilicias, sistemas de lucha contra el fuego, máquinas, herramientas, ergonomía, Iluminación, ruido, contaminación ambiental, vehículos industriales, aparatos sometidos a presión, entre otros, Generar informes que destaquen las medidas que deben adoptarse en función de la condición no apta inicial o Incumplimientos."
+      ]
+    },
+    {
+      "tag": "Log_que_es",
+      "patterns": [
+        "que se estudia en Logistica",
+        "que es la carrera de Logistica",
+        "me das info de Logistica",
+        "quiero informacion de Logistica"
+      ],
+      "responses": [
+        "Las empresas hoy necesitan ganar competitividad por medio de la reducción de costos y aumentar el nivel de servicio al cliente. Como egresado de Logística podrás actuar en los distintos niveles jerárquicos de una empresa en proyectos de abastecimiento, producción, comercialización, venta y distribución de bienes y de servicios, participando en el desarrollo de actividades interdisciplinarias con profesionales de todas las áreas para la implementación de procesos de calidad y diseñar integralmente proyectos logísticos."
+      ]
+    },
+    {
+      "tag": "Log_materia",
+      "patterns": [
+        "Que materias tiene Logistica",
+        "que se cursa en Logistica",
+        "que se ve en Logistica"
+      ],
+      "responses": [
+        "La carrera de Logistica tiene materias como Servuccion, Investigacion Operativa, Logista de Produccion, entre otras"
+      ]
+    },
+    {
+      "tag": "Log_modalidad",
+      "patterns": [
+        "que modalidad tiene Logistica",
+        "como se cursa Logistica"
+      ],
+      "responses": [
+        "La carrera de Logistica solo se cursa a distancia"
+      ]
+    },
+    {
+      "tag": "Log_trabajo",
+      "patterns": [
+        "que hace alguien de Logistica",
+        "a que me dedico como Tec Sup Logistica",
+        "cual es el trabajo de alguien que estudia Logistica"
+      ],
+      "responses": [
+        "El egresado de Logistica es capaz de Identificar los procesos de producción de bienes y servicios, Reconocer herramientas de planificación de proyectos e indicadores de seguimiento y control de los mismos, Identificar los distintos tipos de herramientas de manipulación de material y los distintos tipos de embalajes, entre otros"
+      ]
+    },
+    {
+      "tag": "RRHH_que_es",
+      "patterns": [
+        "que se estudia en Recursos Humanos",
+        "que es la carrera de Recursos Humanos",
+        "me das info de Recursos Humanos",
+        "quiero informacion de Recursos Humanos",
+        "que se estudia en RRHH",
+        "que es la carrera de RRHH",
+        "me das info de RRHH",
+        "quiero informacion de RRHH"
+      ],
+      "responses": [
+        "Como egresado y especialista en Recursos Humanos te ocuparás, de gestionar todo lo relativo al trabajo de las personas en cualquier tipo de organización, colaborando de este modo, con el logro de los objetivos planteados por los directivos de las empresas. Serás un profesional capaz de atender las actividades claves de planificación de necesidades, procesos de incorporación, mantenimiento, desarrollo y control de personal."
+      ]
+    },
+    {
+      "tag": "RRHH_materia",
+      "patterns": [
+        "Que materias tiene Recursos Humanos",
+        "que se cursa en Recursos Humanos",
+        "que se ve en Recursos Humanos",
+        "Que materias tiene RRHH",
+        "que se cursa en RRHH",
+        "que se ve en RRHH"
+      ],
+      "responses": [
+        " La carrera de RRHH tiene materias como Psicologia Social, Comunicacion Institucional, Relaciones Sindicales, Tecnicas de Negociacion, entre otras"
+      ]
+    },
+    {
+      "tag": "RRHH_modalidad",
+      "patterns": [
+        "que modalidad tiene Recursos Humanos",
+        "como se cursa Recursos Humanos",
+        "que modalidad tiene RRHH",
+        "como se cursa RRHH"
+      ],
+      "responses": [
+        "La carrera de RRHH tiene dos modalidades, tanto presencial como a Distancia"
+      ]
+    },
+    {
+      "tag": "RRHH_trabajo",
+      "patterns": [
+        "que hace alguien de Recursos Humanos",
+        "a que me dedico como Tec Sup Recursos Humanos",
+        "cual es el trabajo de alguien que estudia Recursos Humanos",
+        "que hace alguien de RRHH",
+        "a que me dedico como Tec Sup RRHH",
+        "cual es el trabajo de alguien que estudia RRHH"
+      ],
+      "responses": [
+        "Diagnosticar la situación de la organización en relación a sus recursos humanos, Analizar el funcionamiento de los grupos y los estilos de liderazgo, Diseñar, analizar y evaluar puestos de trabajo, Evaluar el desempeño del personal en puestos de trabajo, Desarrollar e implementar actividades de selección y contratación de personal"
+      ]
+    },
+    {
+      "tag": "Tur_que_es",
+      "patterns": [
+        "que se estudia en Turismo",
+        "que es la carrera de Turismo",
+        "me das info de Turismo",
+        "quiero informacion de Turismo"
+      ],
+      "responses": [
+        "Tu objetivo como egresado de Turismo será detectar, organizar, planificar y vender servicios para el disfrute de los recursos y circuitos turísticos con valor simbólico agregado. El turismo es una de las actividades más importantes de la economía de la región y del país que necesita de profesionales y emprendedores turísticos capaces de generar productos turísticos innovadores y atractivos, con conciencia social y ecológica, orientados a satisfacer los deseos y necesidades de las personas que hacen uso de su tiempo libre."
+      ]
+    },
+    {
+      "tag": "Tur_materias",
+      "patterns": [
+        "Que materias tiene Turismo",
+        "que se cursa en Turismo",
+        "que se ve en Turismo"
+      ],
+      "responses": [
+        "La carrera de Turismo tiene materias como Organizacion Empresarial, Servicios Turisticos, Recursos Naturales, MercadoTecnia, entre otras"
+      ]
+    },
+    {
+      "tag": "Tur_modalidad",
+      "patterns": [
+        "que modalidad tiene Turismo",
+        "como se cursa Turismo"
+      ],
+      "responses": [
+        "La carrera de Turismose cursa solamente a Distancia"
+      ]
+    },
+    {
+      "tag": "Tur_trabajo",
+      "patterns": [
+        "que hace alguien de Turismo",
+        "a que me dedico como Tec Sep en Turismo",
+        "cual es el trabajo de alguien que estudia Turismo"
+      ],
+      "responses": [
+        "Relevar, evaluar y planificar el uso de recursos turísticos, Asesorar, conducir y evaluar procesos de utilización pública y privada de explotación de recursos turísticos, Administrar productos y servicios turísticos, entre otras cosas"
+      ]
+    },
+    {
+      "tag": "tec_sinonimos",
+      "patterns": [
+        "quiero estudiar informatica",
+        "quiero info de informatica",
+        "quiero estudiar programacion",
+        "quiero info de programacion",
+        "quiero estudiar computadoras",
+        "quiero info de computadoras",
+        "quiero estudiar software ",
+        "quiero info de software",
+        "quiero estudiar tecnologia",
+        "quiero info de tecnologia",
+        "quiero info de impresiones",
+        "quiero estudiar impresiones",
+        "quiero info de datos",
+        "quiero estudiar datos",
+        "quiero info de robots",
+        "quiero estudiar robots",
+        "quiero info de juegitos",
+        "quiero estudiar juegitos"
+      ],
+      "responses": [
+        "Detectamos que buscas informacion en carreras cercanas a Tecnologias, te recomendamos usar nuestra web o nombrar las carreras correctamente para obtener mas informacion"
+      ]
+    },
+    {
+      "tag": "agro_sinonimos",
+      "patterns": [
+        "quiero info de agronomia",
+        "quiero estudiar agronomia",
+        "quiero info de ganaderia",
+        "quiero estudiar ganaderia",
+        "quiero info de campo",
+        "quiero estudiar campo",
+        "quiero info de granos cereales",
+        "quiero info de granos cereales"
+      ],
+      "responses": [
+        "Detectamos que buscas informacion en carreras cercanas a Agronegocios, te recomendamos usar nuestra web o nombrar las carreras correctamente para obtener mas informacion"
+      ]
+    },
+    {
+      "tag": "negocios_sinonimos",
+      "patterns": [
+        "quiero info de ventas",
+        "quiero estudiar ventas",
+        "quiero info de servicios",
+        "quiero estudiar servicios",
+        "quiero info de negocios",
+        "quiero estudiar negocios",
+        "quiero info de exportacion",
+        "quiero estudiar relaciones",
+        "quiero info de relaciones",
+        "quiero estudiar exportacion",
+        "quiero info de organizacion",
+        "quiero estudiar organizacion",
+        "quiero info de industria",
+        "quiero estudiar industria",
+        "quiero info de mercado",
+        "quiero estudiar mercado",
+        "quiero info de propaganda",
+        "quiero estudiar propaganda",
+        "quiero info de viajes",
+        "quiero estudiar viajes",
+        "quiero info de vacaciones",
+        "quiero estudiar vacaciones",
+        "quiero info de relaciones",
+        "quiero estudiar relaciones",
+        "quiero info de administracion",
+        "quiero estudiar administracion"
+      ],
+      "responses": [
+        "Detectamos que buscas informacion en carreras cercanas a Negocios, te recomendamos usar nuestra web o nombrar las carreras correctamente para obtener mas informacion"
+      ]
+    },
+    {
+      "tag": "diseño_sinonimos",
+      "patterns": [
+        "quiero info de diseño",
+        "quiero estudiar diseño",
+        "quiero info de dibujo",
+        "quiero estudiar dibujo"
+      ],
+      "responses": [
+        "Detectamos que buscas informacion en carreras cercanas a Diseño, te recomendamos usar nuestra web o nombrar las carreras correctamente para obtener mas informacion"
+      ]
+    }
+  ]
+
+}
